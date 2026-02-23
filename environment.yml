@@ -9,5 +9,6 @@ dependencies:
   - ipympl
   - ipykernel
   - pip
+  - seaborn
   - pip:
       - gdown
